@@ -20,7 +20,6 @@
 
 <a href="https://supala-finance.vercel.app/"><b>🌐 App</b></a> •
 <a href="https://supala-finance.gitbook.io/supala-fi-docs"><b>📘 Docs</b></a> •
-<a href="#"><b>𝕏 Twitter</b></a>
 
 </div>
 
@@ -189,9 +188,6 @@ With permissionless access, predictable collateral behavior, and real-world-back
 <img src="https://img.shields.io/badge/Docs-Read%20More-purple"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-@Supala-black"/>
-</a>
 
 </div>
 
